@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Myattrs">
+        <attr name="left_text" format="string"/>
+        <attr name="left_color" format="color"/>
+        <attr name="left_bgcolor" format="color"/>
+        <attr name="left_size" format="integer"/>
+
+        <attr name="center_text" format="string"/>
+        <attr name="center_color" format="color"/>
+        <attr name="center_bgcolor" format="color"/>
+        <attr name="center_size" format="integer"/>
+
+        <attr name="right_text" format="string"/>
+        <attr name="right_color" format="color"/>
+        <attr name="right_bgcolor" format="color"/>
+        <attr name="right_size" format="integer"/>
+    </declare-styleable>
+</resources>
